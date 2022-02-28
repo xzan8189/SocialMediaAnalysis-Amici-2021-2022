@@ -1,6 +1,6 @@
 # SocialMediaAnalysis-Amici-2021-2022
 
-<div align="center"><img src="./images/sfondo.jpg"/></div>
+<div align="center"><img src="./images/anteprima.jpg"/></div>
 An <b>analysis on social media regarding the feelings and emotions</b> of Italians towards the competitors of Amici 2021/2022 during the month of December 2021. Through the scripts it is possible to capture tweets from a list of specified hashtags or keywords. and then save them in a ".csv" file. 
 Subsequently, thanks to the scripts in R, the tweets of Amici's competitors who have a higher average popularity index are analyzed, in order to: 
  
